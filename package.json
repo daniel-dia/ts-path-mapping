@@ -1,0 +1,10 @@
+{
+  "name": "ts-path-mapping",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "dependencies": {
+    "typescript": "^3.1.6"
+  }
+}
